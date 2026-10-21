@@ -1,0 +1,19 @@
+BDS Poké Companion — licença de uso
+
+O código e a marca próprios do BDS Poké Companion permanecem reservados ao
+proprietário do projeto. A instalação permite uso pessoal da extensão por
+usuários com acesso autorizado. A disponibilização no Mozilla Add-ons não
+transfere a titularidade do código nem autoriza revenda em nome do BDS.
+
+O acesso às funções depende de cadastro, confirmação de e-mail e aprovação
+manual do proprietário. A autorização pode ter prazo ou ser revogada.
+
+A Mozilla e seus revisores podem inspecionar e executar o pacote e seu código
+fonte para revisão, validação, assinatura e distribuição pelo Mozilla Add-ons.
+
+Componentes de terceiros mantêm seus próprios termos, sem serem relicenciados
+por este documento. Consulte THIRD-PARTY-NOTICES.txt e as licenças da DOMPurify.
+Nomes, personagens, dados e sprites de terceiros continuam pertencendo aos
+respectivos titulares; esta licença não concede direitos sobre essas marcas.
+
+Suporte e contato: fernando-petta@outlook.com
