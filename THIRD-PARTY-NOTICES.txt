@@ -1,0 +1,27 @@
+BDS Poké Companion — recursos de terceiros
+
+DOMPurify 3.4.16
+Autor: Cure53 e colaboradores.
+Origem: https://github.com/cure53/DOMPurify/tree/3.4.16
+Distribuição npm: dompurify@3.4.16.
+vendor/purify.es.mjs é a distribuição ESM original, sem modificações.
+Licenciamento dual Apache-2.0 / MPL-2.0. Os textos originais acompanham a
+biblioteca em vendor/LICENSE e vendor/LICENSE-MPL. O mapa de código acompanha
+a distribuição. Nenhum código é baixado ou executado remotamente em runtime.
+
+Poke Idle World
+Catálogo público de criaturas, golpes, itens, mapas e sprites:
+https://poke.idleworld.online/pokepedia
+As URLs de origem, datas e hashes dos snapshots constam nos arquivos de
+proveniência em data/, incluindo provenance.json, sprites.json e
+item-sprites.json. Os sprites são recursos do jogo, exibidos sem recoloração.
+A disponibilidade pública não transfere a titularidade desses recursos.
+
+PokéAPI
+Referência complementar de genealogia: https://pokeapi.co/docs/v2#evolution-section
+As relações de referência não confirmam que uma evolução esteja liberada no jogo.
+
+As marcas, personagens e imagens de terceiros pertencem aos respectivos
+titulares. BDS Poké Companion é um projeto independente e não afirma afiliação
+oficial com Poke Idle World, Nintendo, Game Freak ou The Pokémon Company.
+O ícone verde/preto da marca BDS foi criado para este projeto.
