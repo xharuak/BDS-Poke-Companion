@@ -18,22 +18,10 @@ A instalação é gratuita. Para usar os recursos:
 
 1. Abra a extensão e crie sua conta **BDS**, independente da conta do jogo.
 2. Confirme seu e-mail pelo link recebido.
-3. Solicite a liberação em **fernando-petta@outlook.com**, informando o e-mail usado no cadastro BDS.
-4. Aguarde a aprovação manual. Instalar a extensão ou confirmar o e-mail não libera o acesso automaticamente.
+3. Aguarde a aprovação manual. Instalar a extensão ou confirmar o e-mail não libera o acesso automaticamente.
 
 Cada pessoa cria a própria senha. Não envie sua senha ao suporte. Esta versão não tem cobrança integrada; a autorização pode ter prazo.
 
-## Recursos
-
-- **Pokédex + Pokelog:** consultas por nome, tipo, região e progresso da conta.
-- **Analisador por Ctrl + clique:** informações do exemplar, estimativas de IVs, evolução e golpes.
-- **Itens e drops:** consulta de itens e fontes de obtenção.
-- **Meta Pokémon e Gym Meta:** comparação de espécies e equipes.
-- **Gym Leader:** consulta de líderes e simulação da sua equipe contra o time observado do ginásio, com percentuais estimados.
-- **Hunt Analyzer:** acompanhamento de XP/h e combate. A prévia 0.9.10 exige dados do próprio alvo para estimar outras hunts e permite conferir a medição com o painel nativo do jogo.
-- **Barra ajustável:** Ultra Ball, Ultimate Potion e quantidade de Pokémon da conta em relação ao limite de 3.000, sem somar o banco da família.
-- **Notificações opcionais:** captura a partir do IV escolhido e drops de Bronze Boss Token e Strange Pheromone, com vozes breves.
-- **Até quatro contas:** leituras e preferências separadas por conta do jogo.
 
 ## Começar a usar
 
@@ -59,11 +47,3 @@ A extensão observa informações recebidas ou exibidas pelo jogo e faz consulta
 As simulações e estimativas dependem dos dados disponíveis e não garantem vitória ou XP/h. Na prévia 0.9.10, Kanto e Outland usam monstros individuais; Orre e Nightmare usam grupos de quatro. Mapas sem medição suficiente ficam aguardando dados, sem uma taxa de XP inventada.
 
 O login BDS usa Firebase para autenticação e controle de acesso. Os dados das contas do jogo permanecem no navegador. Leia a política em **Dados e privacidade**, dentro da extensão, ou na página do Mozilla Add-ons.
-
-## Suporte
-
-Dúvidas e solicitação de acesso: **fernando-petta@outlook.com**.
-
-Para relatar problemas, use [Issues](https://github.com/xharuak/BDS-Poke-Companion/issues). Informe a versão da extensão, o navegador e como reproduzir o problema. Não publique senhas, tokens ou dados de acesso.
-
-Projeto independente, sem afiliação oficial com Poke Idle World, Nintendo, Game Freak ou The Pokémon Company. A disponibilização pública não altera a licença de uso. Consulte [LICENSE.txt](LICENSE.txt) e os avisos de terceiros incluídos no pacote.
